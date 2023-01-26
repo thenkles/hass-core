@@ -1,0 +1,13 @@
+{
+  "domain": "craven_bin_collection",
+  "name": "Craven District bin collection",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/craven_bin_collection",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@thenkles"],
+  "iot_class": "cloud_polling"
+}
